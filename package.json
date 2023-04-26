@@ -1,0 +1,16 @@
+{
+  "name": "@types/react-image-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "@types/react-modal-image/index.d.ts",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-modal-image": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0"
+  }
+}
